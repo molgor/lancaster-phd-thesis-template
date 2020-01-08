@@ -1,15 +1,14 @@
-CUED PhD thesis template
-========================
+Lancaster University PhD thesis template
+========================================
 
-[![Join the chat at https://gitter.im/kks32/phd-thesis-template](https://badges.gitter.im/kks32/phd-thesis-template.svg)](https://gitter.im/kks32/phd-thesis-template?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-> A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Cambridge University Engineering Department.
+> A LaTeX / XeLaTeX / LuaLaTeX PhD thesis template for Lancaster University.
 
-[![Build Status](https://api.travis-ci.org/kks32/phd-thesis-template.svg)](https://travis-ci.org/kks32/phd-thesis-template)
 [![License MIT](http://img.shields.io/badge/license-MIT-brightgreen.svg)](license.md)
 [![Version](http://img.shields.io/badge/version-2.2-brightgreen.svg)](https://github.com/kks32/phd-thesis-template/releases/latest)
 
-## Author(s)
-*   Krishna Kumar
+## Forked and adapted from: 
+
+* The excellent thesis template from (Krishna Kumar)[https://github.com/kks32/phd-thesis-template]
 
 --------------------------------------------------------------------------------
 ## Features
@@ -438,25 +437,16 @@ Skip the hook with `git commit --no-verify`.
 ## Frequently Asked Questions
 
 #### _Q1_: Where can I find the thesis formatting guidelines this class is based on?
+This is a work in progress. Please contribute.
+The guideline for submitting, etc is located here (appendix X2) but its too long.
+[https://www.lancaster.ac.uk/academic-standards-and-quality/marp/](https://www.lancaster.ac.uk/academic-standards-and-quality/marp/)
 
-[https://www.admin.cam.ac.uk/students/studentregistry/exams/submission/phd/format.html](https://www.admin.cam.ac.uk/students/studentregistry/exams/submission/phd/format.html)
 
-
-#### _Q2_: Where can I find newer versions of the University of Cambridge crest/logos?
-
-The university updates its crest every now and then. You can find up-to-date
-logos on [this page](http://www.cam.ac.uk/brand-resources/about-the-logo/logo-downloads)
-(subject to change without notice).
+#### _Q2_: Where can I find newer versions of the University crest/logos?
+I couldn't find a specific site. Maybe at some point the university can make a website with downloadable logos in many formats ???
 
 Download and exchange the new logos with `University_Crest.eps` and/or `University_Crest.pdf`. I'll try to keep the crest up to date.
 
-#### _Q3_: Where can I find the guidelines to submit my thesis and requirements?
-
-[Preparing to submit:](https://www.admin.cam.ac.uk/students/studentregistry/exams/submission/phd/preparing.html)
-
-[Formatting styles:](https://www.admin.cam.ac.uk/students/studentregistry/exams/submission/phd/format.html)
-
-[Submitting the dissertation](https://www.admin.cam.ac.uk/students/studentregistry/exams/submission/phd/submitting.html)
 
 #### _Q4_: How can I count the number of words in my thesis?
 
@@ -553,7 +543,7 @@ The history of releases can be viewed at [ChangeLog](ChangeLog.md)
 
 *   CUED Version 1.1 Template by H. Banderi
 
-## Acknowlegments
+## Acknowlegments  
 
 *   Alex Ridge - original idea, code concepts & testing
 
